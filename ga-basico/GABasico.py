@@ -52,8 +52,6 @@ class GABasico():
         self.avaliar_populacao()
         ordenado = sorted(self.populacao, key = lambda x: x.avaliacao, reverse = True)
         for i in range(self.geracoes):
-            
-            
             top1 = ordenado[0]
             top2 = ordenado[1]
             top3 = ordenado[2]

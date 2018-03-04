@@ -7,7 +7,7 @@ A grande vantagem da abordagem dos algoritmos genéticos sobre outras implementa
 
 ## Algoritmos neste repositório
 - [GA Básico](https://github.com/alefarias-dev/algoritmos-geneticos/tree/master/ga-basico): implementa um GA para a maximização de uma função simples e já conhecida apenas para entender os conceitos de aplicações para os GAs.
-- _GA Sudoku_: is comming!
+- [GA Sudoku](https://github.com/alefarias-dev/algoritmos-geneticos/tree/master/ga-sudoku): is comming!
 
 # Referências
 [1] Leitura basica sobre métodos heurísticos [neste link!](https://wiki.ifsc.edu.br/mediawiki/images/b/b7/Tutorial_m%C3%A9todos_heur%C3%ADsticos.pdf)

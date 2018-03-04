@@ -2,7 +2,7 @@
 Este repositório conterá uma proposta para resolução do jogo **sudoku** através dos
 algoritmos genéticos.
 
-## Função da avaliação
+## Função de avaliação
 Para avaliar um dado tabuleiro, é dada uma função que calcula a quantidade de linhas (**m0**),
 colunas (**n0**) e diagonais (**d0**) (sub-blocos ainda não) corretas atualmente e divide pela quantidade
 máxima de acertos (**m**,**n**,**d**), por fim, multiplica-se o valor por 10 - apenas para mudar a escala.
